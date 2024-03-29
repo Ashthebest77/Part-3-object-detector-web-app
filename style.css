@@ -1,0 +1,17 @@
+#object{
+    color: white;
+    font-size: 20px;
+    }
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+}
